@@ -8,7 +8,10 @@
  * Editor: 
  * Contributors: 
 
-This document describes an XML based syntax and processing model for UBL semantics. 
+[DBC e-invoice semantic model](https://github.com/ausdigital/dbc-specs/blob/master/eInvoicing_Semantic_Model_v1.0.pdf) 
+[DBC e-invoice Implementation Guide](https://github.com/ausdigital/dbc-specs/blob/master/eInvoicing_Implementation_Guide_v1.0.pdf) 
+
+The XML instances MUST comply with the [UBL 2.1 Specification](http://docs.oasis-open.org/ubl/UBL-2.1.html).
 
 ## Introduction
 
