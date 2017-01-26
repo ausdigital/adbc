@@ -5,8 +5,21 @@
 ## DBC UBL XML Syntax Specification
 
  * ![raw](http://rfc.unprotocols.org/spec:2/COSS/raw.svg)
- * Editor: 
+ * Editor: the Digital Business Council (Council)
  * Contributors: 
+
+## Introduction
+
+This eInvoicing Semantic Model Specification:
+
+ * Incorporates common Invoice requirements for commercial, technical, financial and regulatory (e.g. Tax) usage;
+ * Aligns with the Australian Reporting Dictionary (through incorporation);
+ * Exploits the ability to share the model and gain efficiencies of a standardised data model;
+ * Identifies a common ‘Core’ model;
+ * Consistent reuse of standardised definitions and meanings provide greater opportunities to optimise Business Processes and ability to integrate information with further cost reduction; and
+  * Makes use of a proven methodology;
+  
+The eInvoicing Semantic Model has been defined and elaborated in a consultative manner – reusing existing international standards
 
 [DBC e-invoice semantic model](https://github.com/ausdigital/dbc-specs/blob/master/eInvoicing_Semantic_Model_v1.0.pdf)
 
@@ -14,11 +27,11 @@
 
 The XML instances MUST comply with the [UBL 2.1 Specification](http://docs.oasis-open.org/ubl/UBL-2.1.html).
 
-## Introduction
-
-
 ## Licence
 
+Copyright (c) 2016 the Editor and Contributors. All rights reserved.
+
+This work is licensed under a Creative Commons Attribution 4.0 International License.
 
 ## Change Process
 
