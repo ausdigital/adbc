@@ -2,7 +2,7 @@
 
 # UBL XML Syntax
 
-## DBC UBL XML Syntax Specification
+## DBC UBL Syntax 1.0 Syntax Specification
 
  * ![raw](http://rfc.unprotocols.org/spec:2/COSS/raw.svg)
  * Editor: the Digital Business Council (Council)
