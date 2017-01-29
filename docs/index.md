@@ -17,13 +17,13 @@ This eInvoicing Semantic Model Specification:
  * Exploits the ability to share the model and gain efficiencies of a standardised data model;
  * Identifies a common ‘Core’ model;
  * Consistent reuse of standardised definitions and meanings provide greater opportunities to optimise Business Processes and ability to integrate information with further cost reduction; and
-  * Makes use of a proven methodology;
+ * Makes use of a proven methodology;
   
 The eInvoicing Semantic Model has been defined and elaborated in a consultative manner – reusing existing international standards
 
-[DBC e-invoice semantic model](https://github.com/ausdigital/dbc-specs/blob/master/eInvoicing_Semantic_Model_v1.0.pdf)
+[DBC e-invoice semantic model](https://github.com/ausdigital/ausdigital-bill/blob/master/docs/eInvoicing_Semantic_Model_v1.0.pdf)
 
-[DBC e-invoice Implementation Guide](https://github.com/ausdigital/dbc-specs/blob/master/eInvoicing_Implementation_Guide_v1.0.pdf) 
+[DBC e-invoice Implementation Guide](https://github.com/ausdigital/ausdigital-syn-v1/blob/master/docs/eInvoicing_Implementation_Guide_v1.0.pdf) 
 
 The XML instances MUST comply with the [UBL 2.1 Specification](http://docs.oasis-open.org/ubl/UBL-2.1.html).
 
